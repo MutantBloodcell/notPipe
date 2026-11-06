@@ -4,12 +4,12 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.0"
     defaultConfig {
-        applicationId "io.github.gohoski.notpipe"
+        applicationId "io.github.mutantbloodcell.notpipe"
         minSdkVersion 3
         //noinspection OldTargetApi
         targetSdkVersion 25
         versionCode 6
-        versionName "0.4.0dev"
+        versionName "0.0.1dev"
         setProperty("archivesBaseName", "notPipe-$versionName") //e.g. notPipe-0.1.0-release.apk
     }
     buildTypes {
