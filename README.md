@@ -2,10 +2,6 @@
 **English** / [русский](README.ru.md)
 
 A working YouTube client for **Android 1.5+** utilizing multiple backend APIs. Made with ❤ and longevity in mind. Instead of depending on a single instance that might suddenly fail, the app leverages multiple instances concurrently for maximum reliability.
-* **Telegram channel for updates**: [@AppDataApps](https://t.me/AppDataApps)
-* Join our **[Retro Android Group](https://t.me/retroandroidgroup)** on Telegram!
-* Discord server: [Android Afterlife](https://discord.gg/2JqfEkQyck)
-
 ![notPipe](img/logo.png "Working YouTube for legacy Android devices")
 
 <img src="img/scr1.png" alt="Screenshot" width="200"/> <img src="img/scr2.png" alt="Screenshot" width="200"/> <img src="img/scr3.png" alt="Screenshot" width="200"/> <img src="img/scr4.png" alt="Screenshot" width="200"/> <img src="img/scr5.png" alt="Screenshot" width="200"/> <img src="img/scr6.png" alt="Screenshot" width="200"/>
